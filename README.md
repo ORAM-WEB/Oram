@@ -1,6 +1,6 @@
 # Oram
 
-This is a smart contract project that includes adaptive optimization and security check mechanisms.
+This is a smart contract project on BNBCHAIN ​​that includes adaptive optimization and security check mechanisms
 
 ## Project Structure
 
